@@ -1,5 +1,9 @@
 # IT Service Desk Dashboard
 
+## 📸 Dashboard
+ 
+![Dashboard](image.png)
+
 ## 📊 Sobre o Projeto
 
 Dashboard desenvolvido em Power BI para análise de chamados de TI.
