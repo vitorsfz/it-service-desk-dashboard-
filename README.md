@@ -29,10 +29,10 @@ O objetivo foi praticar conceitos de análise de dados e visualização de indic
 - Análise de Dados
 
 ## 📂 Arquivos do Projeto
-
-- `IT-Service-Desk-Dashboard.pbix`
-- `tickets.csv`
-- `dashboard.png`
+ 
+- `IT-Service-Desk-Dashboard.pbix` → Arquivo do dashboard Power BI
+- `ID_Chamado,Data_Abertura,Data_Fecha.csv` → Base de dados utilizada
+- `image.png` → Imagem do dashboard
 
 ## 🎯 Objetivo
 
