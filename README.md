@@ -28,10 +28,6 @@ O objetivo foi praticar conceitos de análise de dados e visualização de indic
 - CSV
 - Análise de Dados
 
-## 📸 Dashboard
-
-![Dashboard](dashboard.png)
-
 ## 📂 Arquivos do Projeto
 
 - `IT-Service-Desk-Dashboard.pbix`
