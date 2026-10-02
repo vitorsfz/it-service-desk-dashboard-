@@ -1,0 +1,31 @@
+ID_Chamado,Data_Abertura,Data_Fechamento,Categoria,Prioridade,Status,Tecnico,Departamento,Tempo_Resolucao_Horas,SLA_Cumprido
+1001,9/1/2026,9/1/2026,Reset de Senha,Baixa,Fechado,Carlos,Financeiro,1,Sim
+1002,9/1/2026,9/2/2026,Notebook,Alta,Fechado,Ana,RH,12,Não
+1003,9/1/2026,9/2/2026,VPN,Média,Fechado,Pedro,TI,3,Sim
+1004,9/1/2026,9/2/2026,Outlook,Média,Fechado,Carlos,Marketing,6,Sim
+1005,9/3/2026,9/3/2026,Impressora,Baixa,Fechado,Ana,TI,2,Sim
+1006,9/3/2026,9/4/2026,Notebook,Crítica,Fechado,Pedro,TI,20,Não
+1007,9/4/2026,9/4/2026,Reset de Senha,Baixa,Fechado,Carlos,RH,1,Sim
+1008,9/4/2026,9/5/2026,VPN,Alta,Fechado,Ana,TI,10,Não
+1009,9/5/2026,9/5/2026,Outlook,Média,Fechado,Pedro,TI,3,Sim
+1010,9/5/2026,9/6/2026,Notebook,Alta,Fechado,Carlos,Vendas,8,Sim
+1011,9/6/2026,9/6/2026,Impressora,Baixa,Fechado,Ana,RH,2,Sim
+1012,9/6/2026,9/6/2026,VPN,Alta,Fechado,Pedro,TI,14,Não
+1013,9/6/2026,9/6/2026,Reset de Senha,Baixa,Fechado,Carlos,TI,1,Sim
+1014,9/6/2026,9/6/2026,Notebook,Média,Fechado,Ana,RH,5,Sim
+1015,9/8/2026,9/8/2026,Outlook,Baixa,Fechado,Pedro,Vendas,2,Sim
+1016,9/8/2026,9/9/2026,VPN,Crítica,Fechado,Carlos,TI,18,Não
+1017,9/9/2026,9/9/2026,Reset de Senha,Baixa,Fechado,Ana,RH,1,Sim
+1018,9/9/2026,9/10/2026,Notebook,Alta,Fechado,Pedro,TI,9,Sim
+1019,9/10/2026,9/10/2026,Impressora,Baixa,Fechado,Carlos,TI,2,Sim
+1020,9/10/2026,9/10/2026,VPN,Média,Fechado,Ana,Vendas,6,Sim
+1021,9/10/2026,9/10/2026,Outlook,Baixa,Fechado,Pedro,TI,1,Sim
+1022,9/11/2026,9/12/2026,Notebook,Alta,Fechado,Carlos,TI,11,Não
+1023,9/12/2026,9/12/2026,Reset de Senha,Baixa,Fechado,Ana,Marketing,1,Sim
+1024,9/12/2026,9/13/2026,VPN,Média,Fechado,Pedro,Financeiro,4,Sim
+1025,9/13/2026,9/13/2026,Impressora,Baixa,Fechado,Carlos,Vendas,2,Sim
+1026,9/13/2026,9/14/2026,Notebook,Crítica,Fechado,Ana,TI,16,Não
+1027,9/14/2026,9/14/2026,Outlook,Baixa,Fechado,Pedro,RH,1,Sim
+1028,9/14/2026,9/15/2026,VPN,Alta,Fechado,Carlos,Marketing,9,Sim
+1029,9/14/2026,9/14/2026,Reset de Senha,Baixa,Fechado,Ana,Financeiro,1,Sim
+1030,9/15/2026,9/16/2026,Notebook,Alta,Fechado,Pedro,Vendas,10,Não
